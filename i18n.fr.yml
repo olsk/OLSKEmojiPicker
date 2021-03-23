@@ -1,0 +1,31 @@
+OLSKEmojiPickerStringsObject:
+  categories:
+    custom: Personnalisé
+    smileys-emotion: Smileys et émoticônes
+    people-body: Personnes et corps
+    animals-nature: Animaux et nature
+    food-drink: Nourriture et boisson
+    travel-places: Voyages et lieux
+    activities: Activités
+    objects: Objets
+    symbols: Symboles
+    flags: Drapeaux
+  categoriesLabel: Catégories
+  emojiUnsupportedMessage: Votre navigateur ne supporte pas les emoji de couleur.
+  favoritesLabel: Favoris
+  loadingMessage: Chargement...
+  networkErrorMessage: Impossible de charger l'emoji. Essayez de rafraîchir.
+  regionLabel: Sélecteur d'emoji
+  searchDescription: 'Lorsque les résultats de la recherche sont disponibles, appuyez sur le haut ou le bas pour sélectionner et entrer pour choisir.'
+  searchLabel: Chercher
+  searchResultsLabel: Résultats de la recherche
+  skinToneDescription: 'Lorsque les résultats de la recherche sont disponibles, appuyez sur le haut ou le bas pour sélectionner et entrer pour choisir.'
+  skinToneLabel: 'Choisir une carnation de peau (actuellement {skinTone}).'
+  skinTones:
+    - Par défaut
+    - Léger
+    - Moyen-Léger
+    - Moyen
+    - Moyen-foncé
+    - Foncé
+  skinTonesLabel: Carnations de peau

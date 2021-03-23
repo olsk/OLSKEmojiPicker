@@ -1,0 +1,31 @@
+OLSKEmojiPickerStringsObject:
+  categories:
+    custom: Personalizado
+    smileys-emotion: Sonrisas y emoticonos
+    people-body: Personas y cuerpo
+    animals-nature: Animales y naturaleza
+    food-drink: Comida y bebida
+    travel-places: Viajes y lugares
+    activities: Actividades
+    objects: Objetos
+    symbols: Símbolos
+    flags: Banderas
+  categoriesLabel: Categorías
+  emojiUnsupportedMessage: Tu navegador no soporta el emoji de color.
+  favoritesLabel: Preferidos
+  loadingMessage: Cargando...
+  networkErrorMessage: No se ha podido cargar el emoji. Intenta recargar.
+  regionLabel: Selector de emoji
+  searchDescription: 'Cuando los resultados de la búsqueda estén disponibles, pulsa arriba o abajo para seleccionar e introduce para elegir.'
+  searchLabel: Buscar
+  searchResultsLabel: Resultados de la búsqueda
+  skinToneDescription: 'Cuando estén expandidos, pulse arriba o abajo para seleccionar y entrar para elegir.'
+  skinToneLabel: 'Elija un tono de piel (actualmente {skinTone})'
+  skinTones:
+    - Por defecto
+    - Ligero
+    - Media-Luz
+    - Medio
+    - Medio-Oscuro
+    - Oscuro
+  skinTonesLabel: Tonos de piel
