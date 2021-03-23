@@ -1,4 +1,6 @@
 {
+	"name": "OLSKEmojiPicker",
+	"main": "main.svelte",
   "dependencies": {
     "emoji-picker-element": "latest"
   }
