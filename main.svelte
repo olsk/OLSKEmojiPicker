@@ -19,8 +19,6 @@ const mod = {
 			return;
 		}
 
-		console.log(OLSKLocalized('OLSKEmojiPickerStringsObject'));
-
 		document.querySelector('.OLSKEmojiPicker').appendChild(new Picker({
 			i18n: OLSKLocalized('OLSKEmojiPickerStringsObject'),
 		}));
