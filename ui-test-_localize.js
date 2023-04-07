@@ -15,7 +15,7 @@ kDefaultRoute.OLSKRouteLanguageCodes.forEach(function (OLSKRoutingLanguage) {
 		});
 
 		it('localizes OLSKEmojiPickerStrings', function () {
-			browser.assert.text('#TestOLSKEmojiPickerStrings', JSON.stringify(uLocalized('OLSKEmojiPickerStringsObject')));
+			return browser.assert.text('#TestOLSKEmojiPickerStrings', JSON.stringify(uLocalized('OLSKEmojiPickerStringsObject')));
 		});
 
 	});

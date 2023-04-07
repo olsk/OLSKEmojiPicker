@@ -17,11 +17,11 @@ describe('OLSKEmojiPicker_Access', function () {
 	});
 
 	it('shows OLSKEmojiPicker', function () {
-		browser.assert.elements(OLSKEmojiPicker, 1);
+		return browser.assert.elements(OLSKEmojiPicker, 1);
 	});
 
 	it('shows emoji-picker', function () {
-		browser.assert.elements('emoji-picker', 1);
+		return browser.assert.elements('emoji-picker', 1);
 	});
 
 });

@@ -12,7 +12,7 @@ describe('OLSKEmojiPicker_Misc', function () {
 
 		before(function () {
 			browser.assert.text('#TestOLSKEmojiPickerDispatchSelect', '0');
-			browser.assert.text('#TestOLSKEmojiPickerDispatchSelectData', 'undefined');
+			return browser.assert.text('#TestOLSKEmojiPickerDispatchSelectData', 'undefined');
 		});
 
 		before(function () {
@@ -21,7 +21,7 @@ describe('OLSKEmojiPicker_Misc', function () {
 		
 		it.skip('sends OLSKEmojiPickerDispatchSelect', function () {
 			browser.assert.text('#TestOLSKEmojiPickerDispatchSelect', '1');
-			browser.assert.text('#TestOLSKEmojiPickerDispatchSelectData', item);
+			return browser.assert.text('#TestOLSKEmojiPickerDispatchSelectData', item);
 		});
 	
 	});
